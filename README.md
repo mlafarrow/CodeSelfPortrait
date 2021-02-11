@@ -9,4 +9,4 @@ This is a coded self portrait.
 
 ### Technical Details
 
-Modify the sketch.js setup() and draw() functions and begin adding functions!
+Use of global variables, functions, rectangles, ellipses, triangles, curveVertex, and for loops. 
